@@ -8,13 +8,13 @@
 > Java, Python, MySQL
 
 **1996.03.26**  
-▶️ **portfolio**&nbsp;&nbsp;&nbsp;[notion]()  
+▶️ **portfolio**&nbsp;&nbsp;&nbsp;[오류 탐하는 개발자](https://0326.notion.site/ver0-1-e646e86ba9d0440683142ed21132b2eb?pvs=4)  
 ▶️ **email**&nbsp;&nbsp;&nbsp;na03266@naver.com  
 ▶️ **github**&nbsp;&nbsp;&nbsp;http://github.com/NaHwangje  
 ▶️ **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/na03266
 
 
-> 고통을 즐기는 개발자
+> 오류 발생을 즐기는 개발자
 
 > 빈 틈을 찾아서 채워나가는 개발자
 
