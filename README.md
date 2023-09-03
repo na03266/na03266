@@ -7,12 +7,15 @@
 #### Developer
 > Java, Python, MySQL
 
+<br/>
+
 **1996.03.26**  
 ▶️ **portfolio**&nbsp;&nbsp;&nbsp;[notion]()  
 ▶️ **email**&nbsp;&nbsp;&nbsp;na03266@naver.com  
 ▶️ **github**&nbsp;&nbsp;&nbsp;http://github.com/NaHwangje  
 ▶️ **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/na03266
 
+<br/>
 
 > 고통을 즐기는 개발자
 
