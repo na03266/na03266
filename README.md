@@ -5,12 +5,12 @@
 ### [👨‍💻 Notion 포트폴리오](https://0326.notion.site/ver0-1-e646e86ba9d0440683142ed21132b2eb?pvs=4)
 
 #### Developer
-> Documents<br>
-> C, Java, Python<br>
-> MySQL, MariaDB, Oracle<br>
-> Springboot,<br>
-> AWS<br>
-> GitHub Action
+> Documents  
+> C, Java, Python  
+> MySQL, MariaDB, Oracle  
+> Springboot  
+> AWS  
+> GitHub Action  
 
 <br/>
 
