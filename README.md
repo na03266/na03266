@@ -10,7 +10,7 @@
 > MySQL, MariaDB, Oracle  
 > Springboot  
 > AWS  
-> GitHub Action  
+> GitHub 
 
 <br/>
 
