@@ -29,6 +29,12 @@
 
 > 더 효율적인 것, 더 편한 것을 위해 고민하고 기록하는 개발자
 
+<br/>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=gruvbox_light&show_icons=true"/></a>
+
+
 
 <br/>
 
