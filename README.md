@@ -32,8 +32,7 @@
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=highcontrast&show_icons=true"/></a> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaHwangje&layout=compact&theme=highcontrast"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=highcontrast&show_icons=true" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaHwangje&layout=compact&theme=highcontrast" height="200"></a>
 
 
 
