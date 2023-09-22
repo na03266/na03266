@@ -32,7 +32,9 @@
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=gruvbox_light&show_icons=true"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=highcontrast&show_icons=true"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaHwangje&theme=highcontrast"/></a>
+
 
 
 
