@@ -5,23 +5,23 @@
 ### [👨‍💻 Notion 포트폴리오](https://0326.notion.site/ver0-1-e646e86ba9d0440683142ed21132b2eb?pvs=4)
 
 #### Developer
-> <img alt="MS-office Badge" src="https://img.shields.io/badge/Microsoft--Office-%23D83B01?style=flat-square&logo=microsoftoffice"> 
-> <img alt="Markdown Badge" src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white">
->  <img alt="notion Badge" src="https://img.shields.io/badge/notion-%23000000?style=flat-square&logo=notion&logoColor=white">  
->   <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white"> 
-> <img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white"> 
-> <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white">  
->  <img alt="C Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=white"> 
-> <img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"> 
-> <img alt="springboot Badge" src="https://img.shields.io/badge/Spring--Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white">  
->  <img alt="Gradle Badge" src="https://img.shields.io/badge/Gradle-%2302303A?style=flat-square&logo=gradle&logoColor=white"> 
->   <img alt="mysql Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white"> 
-> <img alt="mariadb Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=mariadb&logoColor=white"> 
-> <img alt="aws Badge" src="https://img.shields.io/badge/AmazonAWS-%23232F3E?style=flat-square&logo=amazonaws"> 
->   <img alt="git Badge" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />  
-> <img alt="github Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github"> 
-> <img alt="Visual_Studio_Code Badge" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> 
-> <img alt="Intellij_IDEA Badge" src="https://img.shields.io/badge/Intellij_IDEA-%23000000?style=flat-square&logo=intellijidea&logoColor=white">  
+> <img alt="MS-office Badge" src="https://img.shields.io/badge/Microsoft--Office-%23D83B01?style=flat&logo=microsoftoffice"> 
+> <img alt="Markdown Badge" src="https://img.shields.io/badge/Markdown-%23000000?style=flat&logo=markdown&logoColor=white">
+>  <img alt="notion Badge" src="https://img.shields.io/badge/notion-%23000000?style=flat&logo=notion&logoColor=white">  
+>   <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white"> 
+> <img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white"> 
+> <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white">  
+>  <img alt="C Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white"> 
+> <img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"> 
+> <img alt="springboot Badge" src="https://img.shields.io/badge/Spring--Boot-%236DB33F?style=flat&logo=springboot&logoColor=white">  
+>  <img alt="Gradle Badge" src="https://img.shields.io/badge/Gradle-%2302303A?style=flat&logo=gradle&logoColor=white"> 
+>   <img alt="mysql Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=flae&logo=mysql&logoColor=white"> 
+> <img alt="mariadb Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=flat&logo=mariadb&logoColor=white"> 
+> <img alt="aws Badge" src="https://img.shields.io/badge/AmazonAWS-%23232F3E?style=flat&logo=amazonaws"> 
+>   <img alt="git Badge" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />  
+> <img alt="github Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github"> 
+> <img alt="Visual_Studio_Code Badge" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white"> 
+> <img alt="Intellij_IDEA Badge" src="https://img.shields.io/badge/Intellij_IDEA-%23000000?style=flat&logo=intellijidea&logoColor=white">  
 
  
 
