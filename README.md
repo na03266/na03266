@@ -15,11 +15,7 @@
 
 <br/>
 
-> 걸음을 멈추지 않는 개발자 개발자
-
-> 흐름을 분석하고 나의 흐름으로 이용하는 개발자
-
-> 더 효율적인 것, 더 편한 것을 위해 고민하고 기록하는 개발자
+> 삽질 잘하는 개발자
 
 <img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=default&show_icons=true" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaHwangje&layout=compact&theme=default" height="200"></a>
 
