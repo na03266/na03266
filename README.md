@@ -1,9 +1,9 @@
 ## 나황제  
 
 #### Developer
-> Documents  
-> C, Java, Python, DB  
-> SpringBoot
+> Documents(Mermaid, markdown)  
+> C, Java, Python, DB, Dart, Js
+> SpringBoot, Flutter, Next.js
 
 <br/>
 
