@@ -2,7 +2,7 @@
 
 #### Developer
 > Documents(Mermaid, markdown)  
-> C, Java, Python, DB, Dart, Js
+> C, Java, Python, DB, Dart, Js  
 > SpringBoot, Flutter, Next.js
 
 <br/>
