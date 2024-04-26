@@ -17,6 +17,9 @@
 
 > 삽질 잘하는 개발자
 
+ <img src="https://github-readme-stats.vercel.app/api?username=na03266&theme=default&show_icons=true" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na03266&layout=compact&theme=default" height="200"></a>
+
+
 <br/>
 
 [Show Details...](https://github.com/NaHwangje/Portfolio-Dev.Hwangje)  
