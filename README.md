@@ -2,9 +2,9 @@
 
 #### Developer
 > Documents(Mermaid, markdown, 한글, MS office)  
-> C, Java, Python, Dart, Js, TS
-> MariaDB, MySQL, PostgreSQL
-> SpringBoot, Flutter, Nest.js
+> C, Java, Python, Dart, Js, TS  
+> MariaDB, MySQL, PostgreSQL  
+> SpringBoot, Flutter, Nest.js  
 
 <br/>
 
